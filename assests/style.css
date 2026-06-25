@@ -10,3 +10,20 @@ small{color: rgb(176, 16, 16);}
 h6{background-color: palevioletred;}
 
 #name{color: green;}
+
+.ykd{color: rgb(6, 74, 74);}
+
+.name{color: rgb(1, 1, 12);
+    background-color: rgb(191, 100, 115);
+    width: 200px;
+    height: 200px;
+    text-align: center;
+}
+
+.npg{color: black;
+width: 200px;
+height: 200px;
+background-color: yellow;
+text-align: center;
+}
+
